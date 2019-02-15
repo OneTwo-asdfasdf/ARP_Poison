@@ -10,14 +10,10 @@
 # 
 ###################################################
 
-If you want to use this code, you have to install scapy (python-module)
+You have to install scapy (python-module)
 
 ###############################
-How to Execute?
-
-sudo ~path/ARP_Poison.py
-###############################
-and Input target ip
+Execute and Input Target IP
 
 
 If your network is instability, this code will not excute properly.
