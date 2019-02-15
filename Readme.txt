@@ -4,9 +4,9 @@
 # Language : Python2.7
 # Lib : scapy
 # Country : Korea
-# Developer : OneTwo
+# Developer : j0dev
 # Email : rig0408@naver.com
-# Blog : blog.asdfasdf.kr
+# Blog : blog.jodev.kr
 # 
 ###################################################
 
