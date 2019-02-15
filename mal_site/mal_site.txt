@@ -1,0 +1,7 @@
+Input what url you want to block
+
+Ex)
+==================================
+
+http://www.abcdefb.asdf
+http://asdfasdfa.asdf
